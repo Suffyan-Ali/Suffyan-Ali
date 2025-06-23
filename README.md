@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Suffyan Ali 👋</h1>
+<h1 align="center">Hi there, I am Suffyan Ali 👋</h1>
 
-<p align="center">
-🚀 DevOps Engineer | 🛡️ Cybersecurity Enthusiast | ☁️ Cloud Practitioner | 🐧 Linux Administrator | 🤖 AI Explorer  
+<p align="center"Ali
+Cloud DevOps Engineer | Kubernetes Specialist | CI/CD Pipelines & Security | Driving High Availability & Scalability in Cloud Solutions Infusing AI & ML into Cloud Operations | Innovating for Next-Gen Infrastructure
 </p>
 
 
