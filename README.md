@@ -66,7 +66,7 @@ I am a passionate cloud DevOps engineer diving deep into the intersection of:
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 - 🌐 [GitHub](https://github.com/suffyan-ali)  
-- 📩 Email: your.email@example.com  
+- 📩 Email: suffyanali88@gmail.com.com  
 
 ---
 
