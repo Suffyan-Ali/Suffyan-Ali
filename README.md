@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a passionate technology professional diving deep into the intersection of:
+I am a passionate cloud DevOps engineer diving deep into the intersection of:
 - **Linux Administration** for rock-solid infrastructure
 - **DevOps** to build scalable, automated, and high-availability systems
 - **Cloud Computing** for modern, on-demand architecture
